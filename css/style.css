@@ -1,0 +1,23 @@
+#menu a:hover {
+    background-color: #ddd;
+}
+
+.bg-orange {
+    background-color: #475569;
+}
+
+.listaProdutos {
+    color: white !important;
+    font-weight: bold;
+}
+
+
+#sidebarMenu {
+    height: 93.6vh;
+    background-color: #cbd5e1 !important;
+}
+
+.expired {
+    background-color: red !important;
+    color: white;
+}
